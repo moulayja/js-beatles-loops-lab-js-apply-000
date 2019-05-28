@@ -30,7 +30,11 @@ const johnLennonFacts = (array) => {
 
 johnLennonFacts(['foo', 'boo']);
 
+<<<<<<< HEAD
 const iLoveTheBeatles = num => {
+=======
+ function theBeatlesPlay (num) {
+>>>>>>> 15584fa059cf0d9c7b60a0806dbe374ee39b3e4c
   let array = [];
   do { array.push('I love the Beatles!')
        num++;
